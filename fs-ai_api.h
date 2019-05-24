@@ -35,7 +35,7 @@ typedef enum fs_ai_api_ami_state_e {
 	AMI_TRACK_DRIVE = 4,
 	AMI_BRAKE_TEST = 5,
 	AMI_INSPECTION = 6,
-	AMI_MANUAL = 6,
+	AMI_MANUAL = 7,
 } fs_ai_api_ami_state_e;
 
 
