@@ -55,4 +55,5 @@ dkms.conf
 !libfs-ai_api_amd64.a
 /nbproject/
 /fs-ai_api_tester
+/fs-ai_api_console
 
